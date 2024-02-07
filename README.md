@@ -1,11 +1,6 @@
 ### 💾 Samuel Ford
 
-<a href="https://www.linkedin.com/in/samueljford/">
-<img src="https://img.shields.io/badge/Linkedin.com/in/samueljford-f9b0a9?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:samueljamesford@googlemail.com">
-<img src="https://img.shields.io/badge/samueljamesford@googlemail.com-f9b0a9?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/samueljford/"><img src="https://img.shields.io/badge/Linkedin.com/in/samueljford-f9b0a9?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:samueljamesford@googlemail.com"><img src="https://img.shields.io/badge/samueljamesford@googlemail.com-f9b0a9?style=flat-square&logo=gmail&logoColor=white"></a>
 
 Hey there, I'm a Full-Stack Developer and graduate from Makers Academy
 
